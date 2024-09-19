@@ -25,5 +25,3 @@ lab1_Q2.c: This file contains a program that toggles the green LED (P6.6) when B
 
 
 
-
-The goal of this code is to allow the RED and GREEN LED to blink when the s1 and s2 buttons are pressed respectively!
