@@ -1,7 +1,7 @@
-Smart House Project - LED Blinking with MSP430
+ LED Blinking with MSP430
 
 Project Overview:
-This project implements basic LED control functionality for a Smart House system using an MSP430 microcontroller. It demonstrates simple input/output operations through button presses and LED responses.
+This project implements basic LED control functionality using an MSP430 microcontroller. It demonstrates simple input/output operations through button presses and LED responses.
 
 Author: Efua Yankey
 
